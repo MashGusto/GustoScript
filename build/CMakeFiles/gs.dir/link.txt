@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/gs.dir/src/main.cpp.o CMakeFiles/gs.dir/src/file.cpp.o CMakeFiles/gs.dir/src/lexer.cpp.o CMakeFiles/gs.dir/src/parser.cpp.o -o gs  -ldl 
