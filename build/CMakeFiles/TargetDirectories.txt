@@ -1,0 +1,3 @@
+/home/mashgusto/code/cpp/GustoScript/build/CMakeFiles/gs.dir
+/home/mashgusto/code/cpp/GustoScript/build/CMakeFiles/edit_cache.dir
+/home/mashgusto/code/cpp/GustoScript/build/CMakeFiles/rebuild_cache.dir
